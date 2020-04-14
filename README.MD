@@ -4,9 +4,48 @@ The client used is the 2005 Chinese BETA Client.
 Will include a 2005 server emulator once I can get to the game phase.
 
 ## Client study (2005 Chinese CBT Client)
+Client timestamp: (pass /timestamp as argument)
+
+![Catv Chinese beta 2005 timestamp](timestamp_c2005.png)
+
+Mysterious patch.bin reference (not referenced in leaked srcs):
+
+![patch.bin 2005](patchbin_c2005.png)
+
 The client contains 3 character slots in SelectPhase.
 
 There are only 4 jobs. (Warrior Male, Sura Male, Ninja Female, Shaman Female)
+
+Interesting switch to set the default fonts, apperently it supported EU fonts?
+
+![Default fonts 2005](defaultfonts_c2005)
+
+The XTEA hardcoded korean key
+
+![Korean 2004 XTEA key in 2005 client](hardcoded_xteakey_c2005.png)
+
+is not used in this version as with any client after 2005?
+
+![AccountConnector connect](connectmyevan_c2005.png)
+
+MyEvan crypt functionalities:
+
+![Myevan getkey 2005](myevan_c2005.png)
+
+![Myevan buildkey 2005](myevan_buildkey_c2005.png)
+
+Matrix card is present in this build, suggesting it might have been
+used first in this client (catv.net BETA client)
+
+![Send matrix card 2005](matrixcard_c2005.png)
+
+Login phase:
+
+![Login phase packets 2005](loginPhase_c2005.png)
+
+Handshake phase:
+
+![Handshake phase packets 2005](handshakePhase_c2005.png)
 
 ## Dead links
 - First stage 2003 CBT Client (KR) setup file names: http://web.archive.org/web/20030204230121/http://www.metin2.com/download_1.html
@@ -21,7 +60,7 @@ There are only 4 jobs. (Warrior Male, Sura Male, Ninja Female, Shaman Female)
 ## Screenshots
 2005 SelectPhase working
 
-![2005 selectphase](selectphase_2005.gif)
+![2005 selectphase](selectscreen_c2005.gif)
 
 ## Suspects
 - Direct login from Game core (input_login.cpp) or Login method 1 (No keys supplied when loggin in / SendLoginPacket) might be used
@@ -29,7 +68,6 @@ There are only 4 jobs. (Warrior Male, Sura Male, Ninja Female, Shaman Female)
 
 ## TODO
 - @todo: 2003/2004 articles and screenshots
-- @todo: IDA analysis of 2005 client (locale.inf, font registration, locale...)
 - @todo: Forcepatch SendLoginPacket old to Game server? (GameServer.cs)
 - @todo: After selectphase handling? (GameServer.cs Packet_Login3.cs)
 
