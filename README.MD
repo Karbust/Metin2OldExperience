@@ -18,7 +18,7 @@ There are only 4 jobs. (Warrior Male, Sura Male, Ninja Female, Shaman Female)
 
 Interesting switch to set the default fonts, apperently it supported EU fonts?
 
-![Default fonts 2005](defaultfonts_c2005)
+![Default fonts 2005](defaultfonts_c2005.png)
 
 The XTEA hardcoded korean key
 
@@ -46,6 +46,8 @@ Login phase:
 Handshake phase:
 
 ![Handshake phase packets 2005](handshakePhase_c2005.png)
+
+Inside the folder 2005 I've dropped some files, more info in that readme.
 
 ## Dead links
 - First stage 2003 CBT Client (KR) setup file names: http://web.archive.org/web/20030204230121/http://www.metin2.com/download_1.html
