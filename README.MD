@@ -30,7 +30,7 @@ is not used in this version as with any client after 2005?
 
 MyEvan crypt functionalities:
 
-![Myevan getkey 2005](myevan_c2005.png)
+![Myevan getkey 2005](myevankey_c2005.png)
 
 ![Myevan buildkey 2005](myevan_buildkey_c2005.png)
 
@@ -38,6 +38,11 @@ Matrix card is present in this build, suggesting it might have been
 used first in this client (catv.net BETA client)
 
 ![Send matrix card 2005](matrixcard_c2005.png)
+
+As my suspect, LoginPacketNew is present (and used) in this version,
+perhaps it was only really used in 2004 or 2003 beta.
+
+![Login packet new 2005](loginpacketnew_c2005.png)
 
 Login phase:
 
@@ -47,7 +52,7 @@ Handshake phase:
 
 ![Handshake phase packets 2005](handshakePhase_c2005.png)
 
-Inside the folder 2005 I've dropped some files, more info in that readme.
+Inside the folder 2005Catv I've dropped some files, more info in that readme.
 
 ## Dead links
 - First stage 2003 CBT Client (KR) setup file names: http://web.archive.org/web/20030204230121/http://www.metin2.com/download_1.html
