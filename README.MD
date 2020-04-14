@@ -3,13 +3,14 @@
 The client used is the 2005 Chinese BETA Client.
 Will include a 2005 server emulator once I can get to the game phase.
 
+## Client study (2005 Chinese CBT Client)
+The client contains 3 character slots in SelectPhase.
+
+There are only 4 jobs. (Warrior Male, Sura Male, Ninja Female, Shaman Female)
+
 ## Dead links
 - First stage 2003 CBT Client (KR) setup file names: http://web.archive.org/web/20030204230121/http://www.metin2.com/download_1.html
 - Second stage 2004 CBT Client (KR) {note: no seeders + MetinBT-0192 is the downloader}: `magnet:?xt=urn:btih:0c6202579de5f5fe663fda897cd10dfa482f5fce&dn=METIN2_0192.exe&tr=http%3a%2f%2f211.39.157.122%3a6969%2fannounce`
-
-## Client study
-Chinese beta client contains 3 characters in selectphase and
-there are only 4 jobs (Warrior Male, Sura Male, Ninja Female, Shaman Female)
 
 ## File infos
 - File "MetinBT-0192": 2nd stage torrent client
