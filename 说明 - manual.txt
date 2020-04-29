@@ -1,0 +1,68 @@
+2009.09.21 更新为完整版本 (Update to the full version)
+
+Mcncc.com By Rain
+
+倚天2技术交流QQ群：20682376 (Metin2 QQ community)
+
+倚天2技术交流版块 (Metin2 forum)
+http://www.mcncc.com/thread.php?fid-16.html
+
+
+Decompress                     install
+解压 ha_VirtualPC2007SP1_setup 后安装
+
+Setting the local ip or the virtual network adapter card io
+设置本机IP或虚拟网卡IP为 192.168.2.1
+
+解压 倚天2.7z 到NTFS目录 (Decompress mt2.7z to ntfs directory)
+
+(Open VPC VM, create a new vm guide, add an exist virtual machine,
+open mt2harddrive.vmc)
+打开VPC虚拟机，新建虚拟机向导，添加一台存在的虚拟机。打开 倚天2硬盘.vmc
+
+设置 网络适配器 (set network adapter)
+
+选择你IP设置为192.168.2.1 的网卡 (choose 192... as your network adapter card ip)
+
+启动虚拟机 (launch the virtual machine)
+
+
+解压 倚天2傻瓜工具.7z (decompress mt2noobtool.7z)
+
+运行 fterm (run fterm)
+
+点击 【点此倚天2启动条】 (click [mt2launchingbar])
+
+选择启动或关闭 (choose to launch or close)
+
+（启动服务端后需要等待1分钟，才可以正常游戏） (after launching the servers you need to wait one minute then you can play the game)
+解压登录器。复制到游戏客户端。 (decompress login tool and copy to the game client folder)
+mc.txt 里的IP可以更改为任何IP或域名 (you can change the ip in mc.txt to any ip or domain)
+
+内置登陆帐户 (internal login account)
+
+rain
+12345
+
+MYsql 帐户密码 (MYsql account and password)
+
+root
+123456
+
+客户端下载 (download client)
+
+客户端 (game client)
+http://mt2.runup.com.tw/download_program.php
+
+http://mt2.runup.com.hk/download_program.php
+
+
+- By Mcncc.com
+
+倚天2技术交流QQ群：20682376
+
+倚天2技术交流版块
+http://www.mcncc.com/thread.php?fid-16.html
+
+
+Mcncc.com By Rain
